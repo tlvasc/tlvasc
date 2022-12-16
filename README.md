@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Thiago de Lourenco e Vasconcelos</h1>
 <h3 align="center">A passionate Junior Data Scientist</h3>
 
-- 📝 I regularly write scientific articles on international journals. You can find them in https://scholar.google.com/citations?user=3IJ2XQEAAAAJ&hl=pt-BR](international journals. You can find them in https://scholar.google.com/citations?user=3IJ2XQEAAAAJ&hl=pt-BR)
+- 📝 I regularly write scientific articles on international journals. You can find them in https://scholar.google.com/citations?user=3IJ2XQEAAAAJ&hl=pt-BR
 
 - 📫 How to reach me **thiagodelourenco@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/thiagolvasconcelos/](https://www.linkedin.com/in/thiagolvasconcelos/)
+- 📄 Know about my experiences https://www.linkedin.com/in/thiagolvasconcelos
 
 - ⚡ Fun fact **I have 38 papers published in nanotechnology field, one of them has featured the Nature journal cover art (DOI: 10.5281/zenodo.4313869). I am also Co-founder at FabNS.com.br**
 
