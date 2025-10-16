@@ -7,7 +7,7 @@
 
 - 📄 Know about my experiences https://www.linkedin.com/in/thiagolvasconcelos
 
-- ⚡ Fun fact **I have 38 papers published in nanotechnology field, one of them has featured the Nature journal cover art (DOI: 10.5281/zenodo.4313869). I am also Co-founder at FabNS.com.br**
+- ⚡ Fun fact **I have 45 papers published in nanotechnology field, one of them has featured the Nature journal cover art (DOI: 10.5281/zenodo.4313869). I am also Co-founder at FabNS.com.br**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
